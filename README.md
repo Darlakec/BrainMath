@@ -1,3 +1,4 @@
+<img width="1728" height="1117" alt="Screenshot 2026-06-20 at 13 52 40" src="https://github.com/user-attachments/assets/38528a1b-7a89-4b74-9d86-606a6411aae6" />
 [README.md](https://github.com/user-attachments/files/29114231/README.md)
 # Симулятор хаотических систем
 
